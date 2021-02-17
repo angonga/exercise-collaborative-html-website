@@ -1,14 +1,10 @@
 body{
-<<<<<<< HEAD
     background: white;
 }
 
 #container-heading{
 
     margin-top: 50px;
-}
-=======
-    background:white;
 }
 
 .thumbnail {
@@ -51,11 +47,8 @@ body{
 
 .navbar-collapse{ justify-content: flex-end;
        }
-
-<<<<<<< HEAD
 .navbar-toggler{  background:#fff !important;
        }
-=======
-.navbar-toggler{  background:#fff !important;}
->>>>>>> b5e13a05fcc7250c42b8f217f18e0725ddb2f933
->>>>>>> 2a0304c8b56c46adde9b65b21f2df179d6d77e7f
+
+
+
